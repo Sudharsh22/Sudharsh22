@@ -31,8 +31,8 @@
 
 ### 📬 Connect with Me
 - 🌐 [GitHub](https://github.com/sudharsh22)  
-- 💼 [LinkedIn](https://linkedin.com/in/s) *(add when ready)*  
-- ✉️ Reach me at: **your email here**  
+- 💼 [LinkedIn](https://linkedin.com/in/sudharsshana-r/)
+- ✉️ Reach me at: **sudharsh2201@gmail.com**  
 
 ---
 
