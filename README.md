@@ -29,6 +29,17 @@
 
 ---
 
+---
+
+### 📊 LeetCode Highlights
+
+[![LeetCode Profile](https://leetcode.com/u/sudharsshana_22/)](https://leetcode.com/u/sudharsshana_22/)
+
+- Solved **~167** problems across **Java (134)**, **C (30)**, and **Python (3)**  
+- Strong in **Arrays**, **Strings**, **Hash Tables**, **Dynamic Programming**, **Binary Search**, and **Two Pointers**  
+- Actively participating in contests — improving my algorithmic thinking and problem solving  
+
+
 ### 📬 Connect with Me
 - 🌐 [GitHub](https://github.com/sudharsh22)  
 - 💼 [LinkedIn](https://linkedin.com/in/sudharsshana-r/)
